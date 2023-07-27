@@ -2,3 +2,4 @@ ipywidgets
 langchain
 pandas
 voila
+openai
