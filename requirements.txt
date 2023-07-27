@@ -4,3 +4,4 @@ pandas
 voila
 openai
 chromadb
+tiktoken
