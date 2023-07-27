@@ -1,0 +1,2 @@
+# Ignore the OPENAI_API_KEY environment variable
+OPENAI_API_KEY
