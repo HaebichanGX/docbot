@@ -1,0 +1,4 @@
+ipywidgets
+langchain
+pandas
+nltk
