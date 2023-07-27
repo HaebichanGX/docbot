@@ -5,3 +5,5 @@ voila
 openai
 chromadb
 tiktoken
+markdown
+bs4
