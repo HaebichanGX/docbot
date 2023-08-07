@@ -1,2 +1,4 @@
-# Ignore the OPENAI_API_KEY environment variable
+# Ignore these environment variables
 OPENAI_API_KEY
+CLUSTER_ID
+openai_api_key
