@@ -1,0 +1,11 @@
+ipywidgets
+langchain
+pandas
+voila
+openai
+chromadb
+tiktoken
+markdown
+bs4
+databricks
+databricks-connect
