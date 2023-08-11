@@ -6,7 +6,7 @@ import os
 
 openai_api_key = os.environ.get('OPENAI_API_KEY')
 CLUSTER_ID = os.environ.get("CLUSTER_ID")
-
+GITHUB_API_ACCESS_TOKEN = os.environ.get("GITHUB_API_ACCESS_TOKEN")
 
 filtered_id_list = [
     "U04RJ5CUP2S:CUTCNHN82:1679930573.582099"

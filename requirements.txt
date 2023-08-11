@@ -11,3 +11,4 @@ databricks
 databricks-connect
 ipykernel
 boto3
+pygithub
