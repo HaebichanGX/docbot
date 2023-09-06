@@ -1,0 +1,174 @@
+Document title: Dummy Demo
+Spelling errors:
+'timme,' should be 'time,'.
+'far' should be 'far,'.
+'curiose' should be 'curious'.
+'Whiskerr..' should be 'Whiskerr.'.
+'adventurs' should be 'adventures'.
+'mischivous' should be 'mischievous'.
+'antics..' should be 'antics.'.
+'too' should be 'to'.
+'explorr' should be 'explore'.
+'mysteerious' should be 'mysterious'.
+'village..' should be 'village.'.
+'nosse' should be 'nose'.
+'excitemint,' should be 'excitement,'.
+'folliage..' should be 'foliage.'.
+'througth' should be 'through'.
+'thiket,' should be 'thicket,'.
+'encountred' should be 'encountered'.
+'creetures..' should be 'creatures.'.
+'squirells,' should be 'squirrels,'.
+'glitttering' should be 'glittering'.
+'butterfleys,' should be 'butterflies,'.
+'spikey' should be 'spiky'.
+'shell..' should be 'shell.'.
+'widend' should be 'widened'.
+'spactacular' should be 'spectacular'.
+'unusuall' should be 'unusual'.
+'forest..' should be 'forest.'.
+'busshees' should be 'bushes'.
+'nearby..' should be 'nearby.'.
+'low' should be 'low-hanging'.
+'beter' should be 'better'.
+'view..' should be 'view.'.
+'mysterius' should be 'mysterious'.
+'Glammer..' should be 'Glammer.'.
+'stars..' should be 'stars.'.
+'trreasure' should be 'treasure'.
+'Eldore..' should be 'Eldore.'.
+'adventur' should be 'adventure'.
+'jurney..' should be 'journey.'.
+'curiositty' should be 'curiosity'.
+'wake..' should be 'wake.'.
+'verdent' should be 'verdant'.
+'treasure..' should be 'treasure.'.
+'finnaly' should be 'finally'.
+'forest..' should be 'forest.'.
+'value..' should be 'value.'.
+'unearthed..' should be 'unearthed.'.
+'joy..' should be 'joy.'.
+'adventur' should be 'adventure'.
+'lifetime..' should be 'lifetime.'.
+'victoree' should be 'victory'.
+
+Input Text: Once upon a timme, in a land far far away, there lived a curiose cat named Whiskerr.. Whiskerr was known far and wide for his adventurs and mischivous antics.. One day, he decided too explorr the mysteerious forest that bordered his village.. With his tail held high and his nosse twitching with excitemint, he ventured into the dense folliage.. As he made his way througth the thiket, he encountred all sorts of creetures.. There were talkative squirells, glitttering butterfleys, and even a shy hedgehog that tried to hide in its spikey shell.. Whiskerr's eyes widend with awe as he took in the spactacular sights and unusuall sounds of the forest.. Suddenly, he heard a rustle in the busshees nearby.. Whiskerr's heart raced as he pounced onto a low hanging branch to get a beter view.. Out from the bushes emerged a mysterius figure - a fabled forest sprite known as Glammer.. Glammer had twinkling eyes and hair that shimmered like the stars.. The sprite's voice was melodious as she spoke, inviting Whiskerr to join her on a grand quest to find the lost trreasure of Eldore.. With a grin on his face and a glint of adventur in his eyes, Whiskerr agreed to join Glammer on this epic jurney.. The two of them set off, their footprints leaving a trail of excitement and curiositty in their wake.. They traversed verdent valleys, crossed babbling brooks, and even climbed towering mountains in search of the legendary treasure.. As the sun dipped below the horizon, painting the sky with hues of orange and pink, Whiskerr and Glammer finnaly arrived at the heart of the enchanted forest.. There, under the gaze of a silvery moon, they discovered a hidden grove filled with glittering gems, sparkling gold, and trinkets of untold value.. It was the lost treasure of Eldore, waiting to be unearthed.. Whiskerr and Glammer shared a triumphant smile, their hearts brimming with joy.. They knew that this adventur had bonded them in an unbreakable friendship and had filled their lives with memories that would last a lifetime.. And so, as the stars winked overhead, they celebrated their victoree with a joyful dance among the trees, their laughter echoing through the mystic forest.
+
+Output Text: Once upon a time, in a land far, far away, there lived a curious cat named Whiskerr. Whiskerr was known far and wide for his adventures and mischievous antics. One day, he decided to explore the mysterious forest that bordered his village. With his tail held high and his nose twitching with excitement, he ventured into the dense foliage. As he made his way through the thicket, he encountered all sorts of creatures. There were talkative squirrels, glittering butterflies, and even a shy hedgehog that tried to hide in its spiky shell. Whiskerr's eyes widened with awe as he took in the spectacular sights and unusual sounds of the forest. Suddenly, he heard a rustle in the bushes nearby. Whiskerr's heart raced as he pounced onto a low-hanging branch to get a better view. Out from the bushes emerged a mysterious figure - a fabled forest sprite known as Glammer. Glammer had twinkling eyes and hair that shimmered like the stars. The sprite's voice was melodious as she spoke, inviting Whiskerr to join her on a grand quest to find the lost treasure of Eldore. With a grin on his face and a glint of adventure in his eyes, Whiskerr agreed to join Glammer on this epic journey. The two of them set off, their footprints leaving a trail of excitement and curiosity in their wake. They traversed verdant valleys, crossed babbling brooks, and even climbed towering mountains in search of the legendary treasure. As the sun dipped below the horizon, painting the sky with hues of orange and pink, Whiskerr and Glammer finally arrived at the heart of the enchanted forest. There, under the gaze of a silvery moon, they discovered a hidden grove filled with glittering gems, sparkling gold, and trinkets of untold value. It was the lost treasure of Eldore, waiting to be unearthed. Whiskerr and Glammer shared a triumphant smile, their hearts brimming with joy. They knew that this adventure had bonded them in an unbreakable friendship and had filled their lives with memories that would last a lifetime. And so, as the stars winked overhead, they celebrated their victory with a joyful dance among the trees, their laughter echoing through the mystic forest.
+------------------------------------------------------------
+Document title: Dummy Demo
+Spelling errors:
+'timme,' should be 'time,'.
+'far' should be 'far,'.
+'curiose' should be 'curious'.
+'Whiskerr..' should be 'Whiskerr.'.
+'adventurs' should be 'adventures'.
+'mischivous' should be 'mischievous'.
+'antics..' should be 'antics.'.
+'too' should be 'to'.
+'explorr' should be 'explore'.
+'mysteerious' should be 'mysterious'.
+'village..' should be 'village.'.
+'nosse' should be 'nose'.
+'excitemint,' should be 'excitement,'.
+'folliage..' should be 'foliage.'.
+'througth' should be 'through'.
+'thiket,' should be 'thicket,'.
+'encountred' should be 'encountered'.
+'creetures..' should be 'creatures.'.
+'squirells,' should be 'squirrels,'.
+'glitttering' should be 'glittering'.
+'butterfleys,' should be 'butterflies,'.
+'spikey' should be 'spiky'.
+'shell..' should be 'shell.'.
+'widend' should be 'widened'.
+'spactacular' should be 'spectacular'.
+'unusuall' should be 'unusual'.
+'forest..' should be 'forest.'.
+'busshees' should be 'bushes'.
+'nearby..' should be 'nearby.'.
+'low' should be 'low-hanging'.
+'beter' should be 'better'.
+'view..' should be 'view.'.
+'mysterius' should be 'mysterious'.
+'Glammer..' should be 'Glammer.'.
+'stars..' should be 'stars.'.
+'trreasure' should be 'treasure'.
+'Eldore..' should be 'Eldore.'.
+'adventur' should be 'adventure'.
+'jurney..' should be 'journey.'.
+'curiositty' should be 'curiosity'.
+'wake..' should be 'wake.'.
+'verdent' should be 'verdant'.
+'treasure..' should be 'treasure.'.
+'finnaly' should be 'finally'.
+'forest..' should be 'forest.'.
+'value..' should be 'value.'.
+'unearthed..' should be 'unearthed.'.
+'joy..' should be 'joy.'.
+'adventur' should be 'adventure'.
+'lifetime..' should be 'lifetime.'.
+'victoree' should be 'victory'.
+
+Input Text: Once upon a timme, in a land far far away, there lived a curiose cat named Whiskerr.. Whiskerr was known far and wide for his adventurs and mischivous antics.. One day, he decided too explorr the mysteerious forest that bordered his village.. With his tail held high and his nosse twitching with excitemint, he ventured into the dense folliage.. As he made his way througth the thiket, he encountred all sorts of creetures.. There were talkative squirells, glitttering butterfleys, and even a shy hedgehog that tried to hide in its spikey shell.. Whiskerr's eyes widend with awe as he took in the spactacular sights and unusuall sounds of the forest.. Suddenly, he heard a rustle in the busshees nearby.. Whiskerr's heart raced as he pounced onto a low hanging branch to get a beter view.. Out from the bushes emerged a mysterius figure - a fabled forest sprite known as Glammer.. Glammer had twinkling eyes and hair that shimmered like the stars.. The sprite's voice was melodious as she spoke, inviting Whiskerr to join her on a grand quest to find the lost trreasure of Eldore.. With a grin on his face and a glint of adventur in his eyes, Whiskerr agreed to join Glammer on this epic jurney.. The two of them set off, their footprints leaving a trail of excitement and curiositty in their wake.. They traversed verdent valleys, crossed babbling brooks, and even climbed towering mountains in search of the legendary treasure.. As the sun dipped below the horizon, painting the sky with hues of orange and pink, Whiskerr and Glammer finnaly arrived at the heart of the enchanted forest.. There, under the gaze of a silvery moon, they discovered a hidden grove filled with glittering gems, sparkling gold, and trinkets of untold value.. It was the lost treasure of Eldore, waiting to be unearthed.. Whiskerr and Glammer shared a triumphant smile, their hearts brimming with joy.. They knew that this adventur had bonded them in an unbreakable friendship and had filled their lives with memories that would last a lifetime.. And so, as the stars winked overhead, they celebrated their victoree with a joyful dance among the trees, their laughter echoing through the mystic forest.
+
+Output Text: Once upon a time, in a land far, far away, there lived a curious cat named Whiskerr. Whiskerr was known far and wide for his adventures and mischievous antics. One day, he decided to explore the mysterious forest that bordered his village. With his tail held high and his nose twitching with excitement, he ventured into the dense foliage. As he made his way through the thicket, he encountered all sorts of creatures. There were talkative squirrels, glittering butterflies, and even a shy hedgehog that tried to hide in its spiky shell. Whiskerr's eyes widened with awe as he took in the spectacular sights and unusual sounds of the forest. Suddenly, he heard a rustle in the bushes nearby. Whiskerr's heart raced as he pounced onto a low-hanging branch to get a better view. Out from the bushes emerged a mysterious figure - a fabled forest sprite known as Glammer. Glammer had twinkling eyes and hair that shimmered like the stars. The sprite's voice was melodious as she spoke, inviting Whiskerr to join her on a grand quest to find the lost treasure of Eldore. With a grin on his face and a glint of adventure in his eyes, Whiskerr agreed to join Glammer on this epic journey. The two of them set off, their footprints leaving a trail of excitement and curiosity in their wake. They traversed verdant valleys, crossed babbling brooks, and even climbed towering mountains in search of the legendary treasure. As the sun dipped below the horizon, painting the sky with hues of orange and pink, Whiskerr and Glammer finally arrived at the heart of the enchanted forest. There, under the gaze of a silvery moon, they discovered a hidden grove filled with glittering gems, sparkling gold, and trinkets of untold value. It was the lost treasure of Eldore, waiting to be unearthed. Whiskerr and Glammer shared a triumphant smile, their hearts brimming with joy. They knew that this adventure had bonded them in an unbreakable friendship and had filled their lives with memories that would last a lifetime. And so, as the stars winked overhead, they celebrated their victory with a joyful dance among the trees, their laughter echoing through the mystic forest.
+------------------------------------------------------------
+Document title: Dummy Demo
+Spelling errors:
+'timme,' should be 'time,'.
+'far' should be 'far,'.
+'curiose' should be 'curious'.
+'Whiskerr..' should be 'Whiskerr.'.
+'adventurs' should be 'adventures'.
+'mischivous' should be 'mischievous'.
+'antics..' should be 'antics.'.
+'too' should be 'to'.
+'explorr' should be 'explore'.
+'mysteerious' should be 'mysterious'.
+'village..' should be 'village.'.
+'nosse' should be 'nose'.
+'excitemint,' should be 'excitement,'.
+'folliage..' should be 'foliage.'.
+'througth' should be 'through'.
+'thiket,' should be 'thicket,'.
+'encountred' should be 'encountered'.
+'creetures..' should be 'creatures.'.
+'squirells,' should be 'squirrels,'.
+'glitttering' should be 'glittering'.
+'butterfleys,' should be 'butterflies,'.
+'spikey' should be 'spiky'.
+'shell..' should be 'shell.'.
+'widend' should be 'widened'.
+'spactacular' should be 'spectacular'.
+'unusuall' should be 'unusual'.
+'forest..' should be 'forest.'.
+'busshees' should be 'bushes'.
+'nearby..' should be 'nearby.'.
+'low' should be 'low-hanging'.
+'beter' should be 'better'.
+'view..' should be 'view.'.
+'mysterius' should be 'mysterious'.
+'Glammer..' should be 'Glammer.'.
+'stars..' should be 'stars.'.
+'trreasure' should be 'treasure'.
+'Eldore..' should be 'Eldore.'.
+'adventur' should be 'adventure'.
+'jurney..' should be 'journey.'.
+'curiositty' should be 'curiosity'.
+'wake..' should be 'wake.'.
+'verdent' should be 'verdant'.
+'treasure..' should be 'treasure.'.
+'finnaly' should be 'finally'.
+'forest..' should be 'forest.'.
+'value..' should be 'value.'.
+'unearthed..' should be 'unearthed.'.
+'joy..' should be 'joy.'.
+'adventur' should be 'adventure'.
+'lifetime..' should be 'lifetime.'.
+'victoree' should be 'victory'.
+
+Input Text: Once upon a timme, in a land far far away, there lived a curiose cat named Whiskerr.. Whiskerr was known far and wide for his adventurs and mischivous antics.. One day, he decided too explorr the mysteerious forest that bordered his village.. With his tail held high and his nosse twitching with excitemint, he ventured into the dense folliage.. As he made his way througth the thiket, he encountred all sorts of creetures.. There were talkative squirells, glitttering butterfleys, and even a shy hedgehog that tried to hide in its spikey shell.. Whiskerr's eyes widend with awe as he took in the spactacular sights and unusuall sounds of the forest.. Suddenly, he heard a rustle in the busshees nearby.. Whiskerr's heart raced as he pounced onto a low hanging branch to get a beter view.. Out from the bushes emerged a mysterius figure - a fabled forest sprite known as Glammer.. Glammer had twinkling eyes and hair that shimmered like the stars.. The sprite's voice was melodious as she spoke, inviting Whiskerr to join her on a grand quest to find the lost trreasure of Eldore.. With a grin on his face and a glint of adventur in his eyes, Whiskerr agreed to join Glammer on this epic jurney.. The two of them set off, their footprints leaving a trail of excitement and curiositty in their wake.. They traversed verdent valleys, crossed babbling brooks, and even climbed towering mountains in search of the legendary treasure.. As the sun dipped below the horizon, painting the sky with hues of orange and pink, Whiskerr and Glammer finnaly arrived at the heart of the enchanted forest.. There, under the gaze of a silvery moon, they discovered a hidden grove filled with glittering gems, sparkling gold, and trinkets of untold value.. It was the lost treasure of Eldore, waiting to be unearthed.. Whiskerr and Glammer shared a triumphant smile, their hearts brimming with joy.. They knew that this adventur had bonded them in an unbreakable friendship and had filled their lives with memories that would last a lifetime.. And so, as the stars winked overhead, they celebrated their victoree with a joyful dance among the trees, their laughter echoing through the mystic forest.
+
+Output Text: Once upon a time, in a land far, far away, there lived a curious cat named Whiskerr. Whiskerr was known far and wide for his adventures and mischievous antics. One day, he decided to explore the mysterious forest that bordered his village. With his tail held high and his nose twitching with excitement, he ventured into the dense foliage. As he made his way through the thicket, he encountered all sorts of creatures. There were talkative squirrels, glittering butterflies, and even a shy hedgehog that tried to hide in its spiky shell. Whiskerr's eyes widened with awe as he took in the spectacular sights and unusual sounds of the forest. Suddenly, he heard a rustle in the bushes nearby. Whiskerr's heart raced as he pounced onto a low-hanging branch to get a better view. Out from the bushes emerged a mysterious figure - a fabled forest sprite known as Glammer. Glammer had twinkling eyes and hair that shimmered like the stars. The sprite's voice was melodious as she spoke, inviting Whiskerr to join her on a grand quest to find the lost treasure of Eldore. With a grin on his face and a glint of adventure in his eyes, Whiskerr agreed to join Glammer on this epic journey. The two of them set off, their footprints leaving a trail of excitement and curiosity in their wake. They traversed verdant valleys, crossed babbling brooks, and even climbed towering mountains in search of the legendary treasure. As the sun dipped below the horizon, painting the sky with hues of orange and pink, Whiskerr and Glammer finally arrived at the heart of the enchanted forest. There, under the gaze of a silvery moon, they discovered a hidden grove filled with glittering gems, sparkling gold, and trinkets of untold value. It was the lost treasure of Eldore, waiting to be unearthed. Whiskerr and Glammer shared a triumphant smile, their hearts brimming with joy. They knew that this adventure had bonded them in an unbreakable friendship and had filled their lives with memories that would last a lifetime. And so, as the stars winked overhead, they celebrated their victory with a joyful dance among the trees, their laughter echoing through the mystic forest.
+------------------------------------------------------------
